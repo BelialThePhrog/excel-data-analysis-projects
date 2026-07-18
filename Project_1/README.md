@@ -16,4 +16,4 @@ This project demonstrates proficiency in data cleaning, structuring, and analysi
 3. The "Dashboard" sheet contains the automated calculations and reporting analysis.
 
 ## Preview
-!Project_1](sciezka_do_obrazka.png)
+!Project_1](Project_1/Project_1.png)
