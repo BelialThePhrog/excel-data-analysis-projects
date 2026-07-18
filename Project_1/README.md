@@ -14,3 +14,6 @@ This project demonstrates proficiency in data cleaning, structuring, and analysi
 1. Download the `Project_1.xlsx` file.
 2. The "Raw_Transactions" sheet serves as the primary data input.
 3. The "Dashboard" sheet contains the automated calculations and reporting analysis.
+
+## Preview
+!Project_1](sciezka_do_obrazka.png)
