@@ -4,8 +4,11 @@
 This project transforms raw, unformatted sales data into a fully interactive and responsive Excel Dashboard. The main objective was to demonstrate core data analytics skills: data cleaning, complex logical operations, advanced lookups, and dynamic visualization, strictly utilizing Excel 2019 functions (bypassing newer dynamic arrays like XLOOKUP to showcase classic analytical problem-solving).
 
 ## Screenshots
-*(Add your screenshot here)*
-![Sales Dashboard](./1.png)
+
+![Main_Table](./1.jpg)
+![Refference_Table](./2.jpg)
+![Sales Dashboard_1](./3.jpg)
+![Sales Dashboard_2](./4.jpg)
 
 ## My Implementation & Skills Demonstrated
 While working with the raw dataset (`Sales_Data_Analysis.txt`), I successfully implemented the following solutions:
