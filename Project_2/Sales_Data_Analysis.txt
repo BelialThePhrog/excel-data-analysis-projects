@@ -1,0 +1,156 @@
+Order_ID,Order_Date,Delivery_Date,Country_Region,Category,Product_Name,Cost,Gross_Sales,Profit
+ORD-001,2018-09-09,2018-09-16,India (Asia),Mobile Phones,iPhOnE 14 pro  ,,862,862
+ORD-002,2018-07-31,2018-08-12,UK (Europe),PCs, Dell INSPIRON ,557,952,395
+ORD-003,2019-08-06,2019-08-08,China (Asia),Tablets,samsung GALAXY tab  ,,654,654
+ORD-004,2019-07-01,2019-07-11,Poland (Europe),Mobile Phones, SAMSUNG galaxy s23,931,1604,673
+ORD-005,2019-07-25,2019-08-02,USA (North America),Tablets, Microsoft SURface ,,1187,1187
+ORD-006,2018-03-28,2018-03-30,Australia (Oceania),Accessories, apple AIRPODS ,,1241,1241
+ORD-007,2018-01-31,2018-02-05,Poland (Europe),Laptops, lenovo THinkpad ,999,1579,580
+ORD-008,2019-09-29,2019-10-02,China (Asia),Mobile Phones,oneplus 11  ,,360,360
+ORD-009,2018-07-02,2018-07-14,Canada (North America),PCs,  custom pc build,,1196,1196
+ORD-010,2018-02-13,2018-02-22,USA (North America),Laptops,Dell xps 15	,382,1007,625
+ORD-011,2018-06-18,2018-06-21,Germany (Europe),Mobile Phones,iPhOnE 14 pro  ,,534,534
+ORD-012,2018-06-14,2018-06-28,France (Europe),Accessories, KEYchron keyboard  ,500,922,422
+ORD-013,2019-11-13,2019-11-20,Australia (Oceania),PCs, Dell INSPIRON ,,862,862
+ORD-014,2018-05-17,2018-05-20,France (Europe),Accessories, KEYchron keyboard  ,904,1152,248
+ORD-015,2018-09-17,2018-09-29,China (Asia),PCs, Dell INSPIRON ,,1485,1485
+ORD-016,2018-10-25,2018-11-07,Japan (Asia),PCs,hp PAVILION  ,,1489,1489
+ORD-017,2019-06-18,2019-07-01,France (Europe),Tablets,  iPaD pro ,768,1186,418
+ORD-018,2019-02-14,2019-02-24,India (Asia),Mobile Phones,oneplus 11  ,416,896,480
+ORD-019,2018-12-09,2018-12-17,Canada (North America),Mobile Phones,oneplus 11  ,953,1411,458
+
+ORD-020,2018-07-30,2018-08-10,Australia (Oceania),Tablets,samsung GALAXY tab  ,,876,876
+ORD-021,2018-09-14,2018-09-24,Poland (Europe),Mobile Phones,google PIXEL 7  ,483,825,342
+ORD-022,2018-06-22,2018-07-01,France (Europe),Accessories, apple AIRPODS ,334,981,647
+ORD-023,2018-06-22,2018-07-04,Poland (Europe),PCs, Dell INSPIRON ,472,785,313
+ORD-024,2018-09-14,2018-09-24,USA (North America),Accessories, KEYchron keyboard  ,,878,878
+ORD-025,2019-09-09,2019-09-19,India (Asia),PCs, Dell INSPIRON ,,274,274
+ORD-026,2019-06-28,2019-07-01,China (Asia),PCs, LENOVO legion ,148,451,303
+ORD-027,2019-11-23,2019-12-03,India (Asia),PCs,  custom pc build,766,1054,288
+ORD-028,2019-03-09,2019-03-23,USA (North America),Accessories, KEYchron keyboard  ,,919,919
+ORD-029,2019-02-20,2019-02-22,Canada (North America),Tablets, Microsoft SURface ,,379,379
+ORD-030,2018-07-04,2018-07-13,India (Asia),Laptops,  hP sPectre x360,,583,583
+ORD-031,2018-05-29,2018-06-01,Canada (North America),Accessories,  logitech MOUSE ,416,712,296
+ORD-032,2019-11-08,2019-11-10,China (Asia),Mobile Phones,iPhOnE 14 pro  ,,678,678
+ORD-033,2018-03-06,2018-03-17,China (Asia),Tablets, Microsoft SURface ,,865,865
+ORD-034,2019-11-26,2019-12-07,India (Asia),Mobile Phones, SAMSUNG galaxy s23,318,867,549
+ORD-035,2018-05-30,2018-06-09,USA (North America),Laptops,  hP sPectre x360,840,1233,393
+ORD-036,2018-07-30,2018-08-09,USA (North America),Laptops, lenovo THinkpad ,,1161,1161
+ORD-037,2018-04-06,2018-04-11,China (Asia),Accessories,  logitech MOUSE ,,273,273
+ORD-038,2018-02-16,2018-02-27,India (Asia),PCs,hp PAVILION  ,,351,351
+ORD-039,2018-09-14,2018-09-23,Poland (Europe),Mobile Phones,google PIXEL 7  ,106,374,268
+ORD-040,2019-07-04,2019-07-18,Canada (North America),Laptops, lenovo THinkpad ,,266,266
+ORD-041,2018-10-08,2018-10-16,UK (Europe),Accessories,  logitech MOUSE ,,1257,1257
+ORD-042,2018-04-17,2018-05-01,France (Europe),Accessories, KEYchron keyboard  ,,663,663
+ORD-043,2019-03-22,2019-03-24,India (Asia),Mobile Phones,oneplus 11  ,,630,630
+ORD-044,2018-12-22,2018-12-28,Japan (Asia),Accessories, KEYchron keyboard  ,,630,630
+ORD-045,2018-06-25,2018-07-07,Australia (Oceania),Laptops,  mAcBoOk pRo 16 ,533,1207,674
+ORD-046,2019-08-17,2019-08-23,Canada (North America),Laptops, lenovo THinkpad ,,514,514
+ORD-047,2018-02-14,2018-02-17,Germany (Europe),Accessories,  logitech MOUSE ,,321,321
+ORD-048,2018-12-24,2019-01-03,UK (Europe),Mobile Phones,oneplus 11  ,149,328,179
+ORD-049,2018-06-29,2018-07-09,USA (North America),Tablets,  iPaD pro ,992,1510,518
+ORD-050,2019-08-29,2019-09-11,India (Asia),Accessories, apple AIRPODS ,782,1527,745
+ORD-051,2019-09-07,2019-09-15,UK (Europe),PCs, Dell INSPIRON ,,480,480
+ORD-052,2018-03-10,2018-03-17,UK (Europe),PCs,hp PAVILION  ,,192,192
+ORD-053,2018-11-02,2018-11-10,China (Asia),Laptops, lenovo THinkpad ,,703,703
+
+ORD-054,2019-07-14,2019-07-19,Canada (North America),Accessories, apple AIRPODS ,857,1251,394
+ORD-055,2018-12-30,2019-01-07,India (Asia),Mobile Phones,google PIXEL 7  ,493,586,93
+ORD-056,2019-03-28,2019-04-07,UK (Europe),Mobile Phones,iPhOnE 14 pro  ,,771,771
+ORD-057,2018-04-27,2018-05-03,Japan (Asia),Tablets, Microsoft SURface ,291,405,114
+ORD-058,2019-02-06,2019-02-12,Germany (Europe),PCs, Dell INSPIRON ,370,900,530
+ORD-059,2018-04-27,2018-05-11,UK (Europe),Laptops,  hP sPectre x360,,221,221
+ORD-060,2019-10-13,2019-10-15,India (Asia),PCs, Dell INSPIRON ,899,1170,271
+ORD-061,2019-06-29,2019-07-01,Australia (Oceania),PCs, Dell INSPIRON ,425,864,439
+ORD-062,2019-03-10,2019-03-21,UK (Europe),PCs,hp PAVILION  ,,186,186
+ORD-063,2019-06-13,2019-06-26,USA (North America),Mobile Phones,iPhOnE 14 pro  ,152,937,785
+ORD-064,2018-12-19,2018-12-31,Poland (Europe),Tablets,  iPaD pro ,460,1052,592
+ORD-065,2019-01-19,2019-01-26,France (Europe),PCs,hp PAVILION  ,170,483,313
+ORD-066,2019-06-26,2019-07-08,Japan (Asia),Tablets, Microsoft SURface ,,1127,1127
+ORD-067,2019-09-29,2019-10-01,Poland (Europe),Tablets,samsung GALAXY tab  ,819,1144,325
+ORD-068,2019-03-26,2019-04-02,Germany (Europe),Laptops,  hP sPectre x360,,544,544
+ORD-069,2018-03-01,2018-03-04,France (Europe),Mobile Phones, SAMSUNG galaxy s23,,257,257
+ORD-070,2019-10-17,2019-10-26,Germany (Europe),Accessories, apple AIRPODS ,916,1411,495
+ORD-071,2018-08-28,2018-09-02,USA (North America),Laptops, lenovo THinkpad ,,385,385
+ORD-072,2019-06-12,2019-06-20,Germany (Europe),Laptops,Dell xps 15	,699,1176,477
+ORD-073,2019-03-09,2019-03-17,Poland (Europe),Tablets, Microsoft SURface ,,1289,1289
+ORD-074,2019-03-09,2019-03-15,Canada (North America),PCs, Dell INSPIRON ,206,656,450
+ORD-075,2019-01-26,2019-02-03,China (Asia),PCs,  custom pc build,667,881,214
+ORD-076,2019-08-22,2019-08-24,Germany (Europe),Laptops, lenovo THinkpad ,,782,782
+ORD-077,2018-04-11,2018-04-21,India (Asia),Laptops,  hP sPectre x360,,655,655
+ORD-078,2018-09-12,2018-09-15,Japan (Asia),Mobile Phones, SAMSUNG galaxy s23,,504,504
+ORD-079,2018-09-07,2018-09-12,Poland (Europe),PCs,hp PAVILION  ,522,746,224
+ORD-080,2019-10-25,2019-10-31,Canada (North America),Accessories, KEYchron keyboard  ,,191,191
+ORD-081,2018-05-28,2018-06-04,UK (Europe),Tablets,samsung GALAXY tab  ,917,1409,492
+ORD-082,2019-07-26,2019-07-31,Germany (Europe),Accessories, KEYchron keyboard  ,,673,673
+ORD-083,2018-03-04,2018-03-13,UK (Europe),PCs, Dell INSPIRON ,312,1041,729
+ORD-084,2018-03-23,2018-03-28,France (Europe),Mobile Phones,oneplus 11  ,,795,795
+ORD-085,2019-07-05,2019-07-15,Poland (Europe),Tablets, Microsoft SURface ,,737,737
+ORD-086,2018-04-11,2018-04-19,Canada (North America),Tablets,  iPaD pro ,,1016,1016
+ORD-087,2019-01-03,2019-01-09,USA (North America),Tablets,  iPaD pro ,,727,727
+
+ORD-088,2019-03-27,2019-03-30,France (Europe),Accessories, KEYchron keyboard  ,188,376,188
+ORD-089,2018-07-30,2018-08-11,Poland (Europe),Laptops,  hP sPectre x360,,1138,1138
+ORD-090,2019-08-21,2019-08-27,China (Asia),Accessories, KEYchron keyboard  ,452,868,416
+ORD-091,2018-02-15,2018-02-17,Canada (North America),Laptops,  hP sPectre x360,,1318,1318
+ORD-092,2018-03-15,2018-03-20,Australia (Oceania),Accessories, KEYchron keyboard  ,132,710,578
+ORD-093,2018-08-14,2018-08-22,UK (Europe),Accessories, KEYchron keyboard  ,,815,815
+ORD-094,2018-09-24,2018-09-27,France (Europe),Mobile Phones,oneplus 11  ,,288,288
+ORD-095,2018-02-07,2018-02-11,Poland (Europe),Mobile Phones,oneplus 11  ,,780,780
+ORD-096,2019-04-10,2019-04-21,India (Asia),Accessories, apple AIRPODS ,,1414,1414
+ORD-097,2018-09-04,2018-09-18,Germany (Europe),PCs, LENOVO legion ,,965,965
+ORD-098,2018-11-19,2018-12-02,UK (Europe),Tablets, Microsoft SURface ,,1379,1379
+ORD-099,2018-10-29,2018-11-08,Poland (Europe),PCs,  custom pc build,,745,745
+ORD-100,2019-04-01,2019-04-07,Poland (Europe),Laptops,  hP sPectre x360,237,1017,780
+ORD-101,2019-11-29,2019-12-08,China (Asia),Tablets,samsung GALAXY tab  ,,1051,1051
+
+ORD-102,2019-06-29,2019-07-08,Poland (Europe),Mobile Phones,oneplus 11  ,,656,656
+ORD-103,2018-08-28,2018-09-03,Japan (Asia),Mobile Phones,iPhOnE 14 pro  ,,356,356
+ORD-104,2019-08-15,2019-08-20,USA (North America),PCs, Dell INSPIRON ,725,1103,378
+ORD-105,2018-12-03,2018-12-07,China (Asia),PCs, Dell INSPIRON ,997,1254,257
+ORD-106,2019-03-31,2019-04-02,Canada (North America),Tablets, Microsoft SURface ,392,688,296
+ORD-107,2018-11-05,2018-11-08,Poland (Europe),PCs,  custom pc build,,904,904
+ORD-108,2018-02-11,2018-02-24,UK (Europe),Laptops,  hP sPectre x360,,1453,1453
+ORD-109,2018-11-10,2018-11-13,France (Europe),Accessories,  logitech MOUSE ,,512,512
+ORD-110,2018-12-26,2018-12-29,China (Asia),Accessories,  logitech MOUSE ,988,1615,627
+ORD-111,2019-04-09,2019-04-11,France (Europe),Mobile Phones,oneplus 11  ,,533,533
+ORD-112,2018-11-18,2018-11-30,Australia (Oceania),Tablets,samsung GALAXY tab  ,655,712,57
+ORD-113,2019-09-19,2019-09-24,Japan (Asia),Laptops,  hP sPectre x360,337,448,111
+ORD-114,2019-01-10,2019-01-20,China (Asia),Tablets,samsung GALAXY tab  ,146,489,343
+ORD-115,2018-11-06,2018-11-19,India (Asia),Laptops,  mAcBoOk pRo 16 ,,931,931
+
+ORD-116,2019-03-08,2019-03-11,Canada (North America),Laptops, lenovo THinkpad ,,913,913
+ORD-117,2019-07-19,2019-07-31,Australia (Oceania),Mobile Phones,iPhOnE 14 pro  ,,663,663
+ORD-118,2019-11-12,2019-11-19,USA (North America),PCs,  custom pc build,,1416,1416
+ORD-119,2019-11-23,2019-12-02,France (Europe),Tablets, Microsoft SURface ,,1448,1448
+ORD-120,2018-02-15,2018-02-27,France (Europe),Laptops,Dell xps 15	,913,1351,438
+ORD-015,2018-09-17,2018-09-29,China (Asia),PCs, Dell INSPIRON ,,1485,1485
+ORD-045,2018-06-25,2018-07-07,Australia (Oceania),Laptops,  mAcBoOk pRo 16 ,533,1207,674
+ORD-080,2019-10-25,2019-10-31,Canada (North America),Accessories, KEYchron keyboard  ,,191,191
+
+--- REFERENCE TABLES ---
+Commission Tiers (Sales_Volume, Rate):
+0,0%
+500,2%
+1000,5%
+1500,10%
+
+Project Managers (Cleaned_Product_Name, Manager):
+Macbook Pro 16,Alice Smith
+Dell Xps 15,Bob Johnson
+Lenovo Thinkpad,Charlie Davis
+Hp Spectre X360,Diana Prince
+Iphone 14 Pro,Eve Adams
+Samsung Galaxy S23,Frank Castle
+Google Pixel 7,George King
+Oneplus 11,Hannah Baker
+Dell Inspiron,Ian Wright
+Hp Pavilion,Jane Doe
+Lenovo Legion,Kevin Hart
+Custom Pc Build,Laura Croft
+Ipad Pro,Mike Ross
+Samsung Galaxy Tab,Nina Dobrev
+Microsoft Surface,Oscar Isaac
+Logitech Mouse,Paul Rudd
+Apple Airpods,Quinn Fabray
+Keychron Keyboard,Rachel Green
