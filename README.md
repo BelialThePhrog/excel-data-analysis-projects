@@ -6,24 +6,27 @@ As I develop my data analytics skills, this repository will serve as a log of my
 
 ---
 
-## 📂 Projects Catalog
+## 📁 Projects Catalog
 
 Here is a list of the projects included in this repository. Click on the project names to view the detailed documentation and files.
 
 | Project | Description | Key Skills Highlighted | Status |
 | :--- | :--- | :--- | :--- |
-| **[Project 01: Sales Data Analysis](./Project_1)** | End-to-end cleaning and modeling of a raw sales dataset. | `VLOOKUP`, `Data Cleaning`, `Logical Functions`, `Reporting` | Completed 🟢 |
-| **[Project 02: Coming Soon]** | *Placeholder for future analysis* | *TBD* | Planned ⚪ |
+| [Project 01: Sales Data Analysis](./Project_01) | End-to-end cleaning and modeling of a raw sales dataset. | `VLOOKUP`, `Data Cleaning`, `Logical Functions`, `Reporting` | Completed 🟢 |
+| [Project 02: Advanced Sales Dashboard](./Project_02) | Transforming messy data into a responsive, interactive dashboard using classic Excel formulas. | `INDEX/MATCH`, `Pivot Tables`, `Slicers`, `Date Functions` | Completed 🟢 |
 
 ---
 
 ## 🛠️ Core Competencies Demonstrated
+
 Across the projects in this repository, you will find practical applications of:
 
-* **Data Cleaning & Transformation:** Text functions (`TRIM`, `CLEAN`, `PROPER`), Date/Time formatting, and removing duplicates.
-* **Data Modeling:** Cross-referencing tables with lookup functions (`VLOOKUP`, `XLOOKUP`, `INDEX/MATCH`) and handling errors gracefully (`IFNA`, `IFERROR`).
-* **Advanced Logic:** Building robust business rules using nested `IF` statements, `AND/OR` logic, and absolute/relative referencing.
-* **Data Structuring:** Proper implementation of structured references via **Excel Tables** and **Named Ranges** for scalability.
+*   **Data Cleaning & Transformation:** Text functions (`TRIM`, `CLEAN`, `PROPER`), splitting merged data (Text-to-Columns), and removing duplicates.
+*   **Data Modeling & Lookups:** Cross-referencing tables with lookup functions (`VLOOKUP`, `INDEX/MATCH`) and handling missing data gracefully (`IFNA`, `IFERROR`).
+*   **Advanced Logic & Time Intelligence:** Building robust business rules using nested `IF` statements, and calculating precise business timelines using date functions (`EOMONTH`, `NETWORKDAYS`).
+*   **Interactive Dashboards:** Designing dynamic reporting tools using `Pivot Tables`, `Pivot Charts`, and interconnected `Slicers` (Report Connections).
+*   **Forecasting & What-If Analysis:** Utilizing Goal Seek, Scenario Manager, and Data Tables to model business outcomes and project future trends.
+*   **Data Structuring:** Proper implementation of structured references via `Excel Tables` and `Named Ranges` for scalability.
 
 ---
 
