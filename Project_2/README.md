@@ -22,4 +22,4 @@ While working with the raw dataset (`Sales_Data_Analysis.txt`), I successfully i
 ## Disclaimer & Course Context
 This project was inspired by a structured data analysis bootcamp/course. However, my execution focused exclusively on the core data wrangling, formula building, and dashboarding aspects mentioned above. 
 
-Certain modules covered in the broader course curriculum—such as **What-If Analysis**, Goal Seek, Solver, or VBA Macros—were intentionally excluded from this specific project, as the primary goal was to solidify foundational data transformation and robust formula architecture within standard Excel constraints.
+Certain modules covered in the broader course curriculum, such as **What-If Analysis**, Goal Seek, Solver were intentionally excluded from this specific project, as the primary goal was to solidify foundational data transformation and robust formula architecture within standard Excel constraints.
