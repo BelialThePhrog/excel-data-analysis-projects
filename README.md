@@ -21,12 +21,15 @@ Here is a list of the projects included in this repository. Click on the project
 
 Across the projects in this repository, you will find practical applications of:
 
-*   **Data Cleaning & Transformation:** Text functions (`TRIM`, `CLEAN`, `PROPER`), splitting merged data (Text-to-Columns), and removing duplicates.
-*   **Data Modeling & Lookups:** Cross-referencing tables with lookup functions (`VLOOKUP`, `INDEX/MATCH`) and handling missing data gracefully (`IFNA`, `IFERROR`).
-*   **Advanced Logic & Time Intelligence:** Building robust business rules using nested `IF` statements, and calculating precise business timelines using date functions (`EOMONTH`, `NETWORKDAYS`).
-*   **Interactive Dashboards:** Designing dynamic reporting tools using `Pivot Tables`, `Pivot Charts`, and interconnected `Slicers` (Report Connections).
-*   **Forecasting & What-If Analysis:** Utilizing Goal Seek, Scenario Manager, and Data Tables to model business outcomes and project future trends.
-*   **Data Structuring:** Proper implementation of structured references via `Excel Tables` and `Named Ranges` for scalability.
+* **Data Wrangling & ETL:** Automating data imports from local folders and external web sources using **Power Query**, merging datasets, and shaping raw data.
+* **Data Cleaning & Transformation:** Text functions (`TRIM`, `CLEAN`, `PROPER`), splitting merged data (Text-to-Columns), and removing duplicates.
+* **Automation & Custom Functions:** Writing **VBA** macros and custom User Defined Functions (UDFs) to encapsulate complex mathematical logic and bypass software version constraints.
+* **Data Modeling & Lookups:** Cross-referencing tables with lookup functions (`VLOOKUP`, complex two-way `INDEX/MATCH`) and handling missing data gracefully (`IFNA`, `IFERROR`).
+* **Advanced Logic & Time Intelligence:** Building robust business rules using nested `IF` statements, `CHOOSE`, and calculating precise business timelines using date functions (`EOMONTH`, `NETWORKDAYS`).
+* **Statistical & Array Calculations:** Utilizing legacy CSE (Ctrl+Shift+Enter) array formulas (e.g., `MODE.MULT`) and resilient statistical functions (`AGGREGATE`, `RANK.EQ`).
+* **Interactive Dashboards & UI:** Designing dynamic reporting tools using Pivot Tables, Pivot Charts, interconnected `Slicers`/`Timelines`, and interactive **Developer Form Controls** (Combo Boxes, Check Boxes, Option Buttons) linked with dynamic `GETPIVOTDATA`.
+* **Forecasting & What-If Analysis:** Utilizing Goal Seek, Scenario Manager, and Data Tables to model business outcomes and project future trends.
+* **Data Structuring:** Proper implementation of structured references via Excel Tables and advanced **Named Ranges** for cleaner architecture and scalability.
 
 ---
 
