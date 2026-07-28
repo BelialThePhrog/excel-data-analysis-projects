@@ -14,7 +14,7 @@ Here is a list of the projects included in this repository. Click on the project
 | :--- | :--- | :--- | :--- |
 | [Project 01: Sales Data Analysis](./Project_01) | End-to-end cleaning and modeling of a raw sales dataset. | `VLOOKUP`, `Data Cleaning`, `Logical Functions`, `Reporting` | Completed 🟢 |
 | [Project 02: Advanced Sales Dashboard](./Project_02) | Transforming messy data into a responsive, interactive dashboard using classic Excel formulas. | `INDEX/MATCH`, `Pivot Tables`, `Slicers`, `Date Functions` | Completed 🟢 |
-
+| [Project 03: Masterclass Analytics Dashboard](./Project_03_) | Advanced data wrangling and dashboarding combining Power Query, VBA, and Array Formulas in a constrained Excel 2019 environment. | `Power Query`, `VBA`, `CSE Arrays`, `INDEX/MATCH`, `Form Controls` | Completed 🟢 |
 ---
 
 ## 🛠️ Core Competencies Demonstrated
