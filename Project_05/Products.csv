@@ -1,0 +1,7 @@
+Product_ID,Product_Name,Category,UnitCost,UnitPrice
+P001,Laptop Pro 15,IT,850,1200
+P002,Server Rack Basic,IT,1400,2200
+P003,Security Audit,Services,0,1500
+P004,Cloud License Annual,Software,40,120
+P005,ERP System Module,Software,300,850
+P006,On-site Training,Services,100,500
