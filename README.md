@@ -16,6 +16,7 @@ Here is a list of the projects included in this repository. Click on the project
 | [Project 02: Advanced Sales Dashboard](./Project_02) | Transforming messy data into a responsive, interactive dashboard using classic Excel formulas. | `INDEX/MATCH`, `Pivot Tables`, `Slicers`, `Date Functions` | Completed 🟢 |
 | [Project 03: Masterclass Analytics Dashboard](./Project_03_) | Advanced data wrangling and dashboarding combining Power Query, VBA, and Array Formulas in a constrained Excel 2019 environment. | `Power Query`, `VBA`, `CSE Arrays`, `INDEX/MATCH`, `Form Controls` | Completed 🟢 |
 | [Project 04: Business Forecasting & What-If Analysis](./Project_04) | Predictive analytics and business modeling using Scenario Manager, Goal Seek, and Time Series Forecasting. | `What-If Analysis`, `Goal Seek`, `Scenario Manager`, `Data Forecasting` | Completed 🟢 |
+| [Project 05: Sales ETL Pipeline & Data Modeling](./Project_05) | Automated ETL pipeline extracting raw multi-year CSVs, fixing structural anomalies, melting wide formats, and modeling financial KPIs. | `Pandas`, `ETL`, `Feature Engineering`, `Data Cleaning` | Completed 🟢 |
 ---
 
 ## 🛠️ Core Competencies Demonstrated
